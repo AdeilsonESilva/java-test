@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TesteAgenda",
+      "request": "launch",
+      "mainClass": "TesteAgenda",
+      "projectName": "java_61ad7288"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestMyStaticClass",
+      "request": "launch",
+      "mainClass": "TestMyStaticClass",
+      "projectName": "java_61ad7288"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_61ad7288"
+    }
+  ]
+}
