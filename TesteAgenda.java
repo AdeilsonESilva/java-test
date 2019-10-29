@@ -1,25 +1,25 @@
 public class TesteAgenda
 {
-	public static void main(String[] args) {
+  public static void main(String[] args) {
     Agenda a1 = new Agenda();
     a1.setDia(5);
     a1.setMes(10);
     a1.setAno(2001);
-		System.out.println(a1.showData());
+    System.out.println(a1.showData());
     
     Agenda a2 = new Agenda();
     a2.setDia(30);
     a2.setMes(9);
     a2.setAno(2019);
-		System.out.println(a2.showData());
+    System.out.println(a2.showData());
     
     Agenda a3 = new Agenda();
     a3.setDia(21);
     a3.setMes(12);
     a3.setAno(1999);
-		System.out.println(a3.showData());
-	}
-	
+    System.out.println(a3.showData());
+  }
+  
   public static class Agenda{
     private Integer dia;
     private Integer mes;
